@@ -14,7 +14,7 @@
 - 🧪 Building my own lab: **c0mpl1cated.labs**
 - 🌱 Currently learning **Linux, Active Directory, Proxmox, Windows Server, and Windows security**
 - 💼 Looking for **cybersecurity internships, SOC analyst roles, IT support, and IT security opportunities**
-- 🌎 International student in the USA on an **F-1 visa**
+- 🌎 International student in the USA
 - ⚡ Fun fact: I enjoy building hands-on projects and breaking things in labs so I can learn how to secure them
 
 ---
