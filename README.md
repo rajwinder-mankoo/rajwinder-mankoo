@@ -11,7 +11,7 @@
 
 - 🎓 I’m currently studying **Cybersecurity**
 - 🔐 Interested in **Information Assurance, Network Security, CCDC, Blue Teaming, and Homelabs**
-- 🧪 Building my own lab: **c0mpl1cated.lab**
+- 🧪 Building my own lab: **c0mpl1cated.labs**
 - 🌱 Currently learning **Linux, Active Directory, Proxmox, Windows Server, and Windows security**
 - 💼 Looking for **cybersecurity internships, SOC analyst roles, IT support, and IT security opportunities**
 - 🌎 International student in the USA on an **F-1 visa**
